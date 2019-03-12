@@ -12,6 +12,11 @@ public class Encrypt {
         System.out.print("Enter Key : ");
         int key = scanner.nextInt();
 
+        // create object and call required method for run
+        Encryption encryption = new Encryption();
+        encryption.getMessage(message);
+        encryption.getCode(key);
+        System.out.println("encrypt result : "+encryption.encryptAll());
 
     }
 

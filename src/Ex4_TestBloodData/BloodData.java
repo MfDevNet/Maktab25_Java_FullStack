@@ -13,4 +13,22 @@ public class BloodData {
     }
 
 
+    //method for input validationBloodData
+    private void validationBloodData(String bloodType) {
+        if (bloodType.startsWith("AB") || bloodType.startsWith("ab")) {
+            this.bloodType = "AB";
+            this.rhFactor = "" + bloodType.charAt(2);
+
+        } else if (bloodType.endsWith("ab") || bloodType.endsWith("AB")) {
+            this.bloodType = "AB";
+            this.rhFactor = "" + bloodType.charAt(0);
+        } else if (bloodType.charAt(0) == 45 || bloodType.charAt(0) == 43) {
+            this.bloodType = "" + bloodType.charAt(1);
+            this.rhFactor = "" + bloodType.charAt(0);
+        } else {
+            this.bloodType = "" + bloodType.charAt(0);
+            this.rhFactor = "" + bloodType.charAt(1);
+        }
+
+    }
 }

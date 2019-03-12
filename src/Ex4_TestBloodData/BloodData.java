@@ -12,6 +12,18 @@ public class BloodData {
         this.rhFactor = "+";
     }
 
+    //constructor 1 parameter
+    public BloodData(String bloodType) {
+        validationBloodData(bloodType);
+    }
+
+    public String getBloodType() {
+        return (this.bloodType + " " + this.rhFactor).toUpperCase();
+    }
+
+    public void setBloodType(String bloodType) {
+        validationBloodData(bloodType);
+    }
 
     //method for input validationBloodData
     private void validationBloodData(String bloodType) {

@@ -1,6 +1,18 @@
 package Ex2_FormLetterWriter;
 
+import java.util.Scanner;
+
 public class Ex2_FormLetterWriter {
+        
+    public static void main(String[] args) {
+        Scanner scanner=new Scanner(System.in);
+        System.out.print("Enter First Name : ");
+        String fName=scanner.nextLine();
+        System.out.print("Enter Last Name : ");
+        String lName=scanner.nextLine();
+        System.out.println();
+        displaySalutation(fName,lName);
+    }
 
     // method displaySalutation with 1 parameter
     static void displaySalutation(String lastName) {

@@ -17,6 +17,25 @@ public class TestPatient {
         System.out.println("call contractor three parameter");
         patientWithThreeParameters.printPatien();
 
+        //declare array for save Patient info
+        Patient[] patient = new Patient[3];
+        // loop for get info from user and call need constructor
+
+        for (int i = 0; i < patient.length; i++) {
+            System.out.println("---------------");
+            System.out.println("Enter BloodData");
+            System.out.println("Id :" + 100020 + i);
+            System.out.print("Enter Age :");
+            int age = scanner.nextInt();
+            System.out.print("Enter Blood Type(ab+-,o-+,a+-,b-+):");
+            String blooadType = scanner.next();
+            patient[i] = new Patient(100020 + i, age, blooadType);
+            System.out.println();
+        }
+        //loop for display patient info
+        for (int i = 0; i < patient.length; i++) {
+            patient[i].printPatien();
+        }
     }
 }
 

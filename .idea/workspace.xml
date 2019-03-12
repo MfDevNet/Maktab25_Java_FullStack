@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ca958f49-aedd-43a1-aecf-dab21d63ec0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java" afterDir="false" />
+>>>>>>> origin/Billing
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex4_TestBloodData/BloodData.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,15 +47,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="439">
               <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="18" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="37" />
+>>>>>>> origin/Billing
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/Ex4_TestBloodData/TestPatient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
               <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/computeBill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="41" />
+>>>>>>> origin/Billing
             </state>
           </provider>
         </entry>
@@ -74,10 +93,13 @@
         <option value="$PROJECT_DIR$/src/Ex3_Billing/BillingWithInput.java" />
         <option value="$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/computeBill.java" />
         <option value="$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/Ex4_TestBloodData/BloodData.java" />
         <option value="$PROJECT_DIR$/src/Ex4_TestBloodData/TestBloodData.java" />
         <option value="$PROJECT_DIR$/src/Ex4_TestBloodData/Patient.java" />
         <option value="$PROJECT_DIR$/src/Ex4_TestBloodData/TestPatient.java" />
+=======
+>>>>>>> origin/Billing
       </list>
     </option>
   </component>
@@ -130,7 +152,18 @@
               <item name="Mohammad_Farahani_HW4_Maktab25" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mohammad_Farahani_HW4_Maktab25" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Ex4_TestBloodData" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Ex3_Billing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mohammad_Farahani_HW4_Maktab25" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mohammad_Farahani_HW4_Maktab25" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex3_Billing" type="462c0819:PsiDirectoryNode" />
+              <item name="implementsOOP" type="462c0819:PsiDirectoryNode" />
+>>>>>>> origin/Billing
             </path>
           </expand>
           <select />
@@ -159,7 +192,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.TestPatient">
+=======
+  <component name="RunManager" selected="Application.BillingWithInput">
+>>>>>>> origin/Billing
     <configuration name="Billing (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3_Billing.implementsOOP.Billing" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
@@ -199,6 +236,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TestBloodData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4_TestBloodData.TestBloodData" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
@@ -229,6 +267,10 @@
       <list>
         <item itemvalue="Application.TestPatient" />
         <item itemvalue="Application.TestBloodData" />
+=======
+    <recent_temporary>
+      <list>
+>>>>>>> origin/Billing
         <item itemvalue="Application.BillingWithInput" />
         <item itemvalue="Application.Billing (1)" />
         <item itemvalue="Application.Billing" />
@@ -253,20 +295,32 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2621000" />
+=======
+    <option name="totallyTimeSpent" value="2090000" />
+>>>>>>> origin/Billing
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1170" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+>>>>>>> origin/Billing
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32851636" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
+>>>>>>> origin/Billing
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -288,10 +342,41 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/Billing.java" />
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/BillingWithInput.java" />
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/computeBill.java" />
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/Billing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/BillingWithInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/computeBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> origin/Billing
   </component>
   <component name="masterDetails">
     <states>

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca958f49-aedd-43a1-aecf-dab21d63ec0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex1_encrypt/Decrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1_encrypt/Decryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex1_encrypt/StaticEncrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex1_encrypt/StaticEncryption.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,17 +27,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Decrypt.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/StaticEncrypt.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/StaticEncryption.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Decryption.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="504">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="31" />
+              <folding>
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,6 +100,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/Ex1_encrypt/Encryption.java" />
         <option value="$PROJECT_DIR$/src/Ex1_encrypt/Encrypt.java" />
+        <option value="$PROJECT_DIR$/src/Ex1_encrypt/Decryption.java" />
+        <option value="$PROJECT_DIR$/src/Ex1_encrypt/Decrypt.java" />
+        <option value="$PROJECT_DIR$/src/Ex1_encrypt/StaticEncryption.java" />
       </list>
     </option>
   </component>
@@ -100,6 +129,9 @@
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1170" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -152,7 +184,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StaticEncrypt">
+    <configuration name="Decrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1_encrypt.Decrypt" />
+      <module name="Mohammad_Farahani_HW4_Maktab25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex1_encrypt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Encrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1_encrypt.Encrypt" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
@@ -166,8 +211,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StaticEncrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1_encrypt.StaticEncrypt" />
+      <module name="Mohammad_Farahani_HW4_Maktab25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex1_encrypt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticEncrypt" />
+        <item itemvalue="Application.Decrypt" />
         <item itemvalue="Application.Encrypt" />
       </list>
     </recent_temporary>
@@ -185,12 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552418407668</updated>
-      <workItem from="1552418410932" duration="1601000" />
+      <workItem from="1552418410932" duration="2082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1601000" />
+    <option name="totallyTimeSpent" value="2082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1170" extended-state="0" />
@@ -199,7 +259,7 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24222222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24222222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -208,7 +268,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -246,17 +306,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Decrypt.java">
+    <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Decryption.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="504">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Decryption.java">
+    <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Decrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/StaticEncrypt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/StaticEncryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>

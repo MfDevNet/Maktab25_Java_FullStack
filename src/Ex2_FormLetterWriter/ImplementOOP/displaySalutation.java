@@ -13,7 +13,7 @@ public class displaySalutation {
         firstName = (firstName.substring(0, 1).toUpperCase()) + firstName.substring(1);
         //call displaySalutation one parameter
         this.displaySalutation(lastName);
-        System.out.printf("Greeting Dear %s %s Thank you for providing with a good suggestion for our problem. Soon, your solution will be reviewed.", firstName, lastName);
+        System.out.printf("Greeting Dear %s %s Thank you for \nproviding with a good suggestion for our problem.\nSoon, your solution will be reviewed.", firstName, lastName);
 
     }
 }

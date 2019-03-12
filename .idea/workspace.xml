@@ -151,6 +151,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="FormLetterWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2_FormLetterWriter.ImplementOOP.FormLetterWriter" />
+      <module name="Mohammad_Farahani_HW4_Maktab25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex2_FormLetterWriter.ImplementOOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FormLetterWriter" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpringGeneralSettings">
     <option name="allowAutoConfigurationMode" value="true" />
   </component>

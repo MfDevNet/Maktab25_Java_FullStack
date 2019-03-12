@@ -29,4 +29,13 @@ public class Patient {
         this(idNumber, age);
         this.bloodData.setBloodType(bloodData);
     }
+
+    //method print
+    void printPatien() {
+        System.out.println("--------------\n" +
+                "Patient Info\n" +
+                "ID :" + this.idNumber + "\n" +
+                "Age :" + this.age + "\n" +
+                "BloodType :" + this.bloodData.getBloodType() + "\n");
+    }
 }

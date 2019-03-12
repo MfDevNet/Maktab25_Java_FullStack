@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca958f49-aedd-43a1-aecf-dab21d63ec0f" name="Default Changelist" comment="">
-<<<<<<< HEAD
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-=======
       <change beforePath="$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java" afterDir="false" />
->>>>>>> origin/Billing
-=======
+
       <change afterPath="$PROJECT_DIR$/src/Ex1_encrypt/StaticEncrypt.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Ex1_encrypt/StaticEncryption.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> origin/Ex1_encrypt
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,9 +19,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
+
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex4_TestBloodData/BloodData.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,56 +33,47 @@
                 <element signature="e#550#551#0" expanded="true" />
                 <element signature="e#596#597#0" expanded="true" />
               </folding>
-=======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex2_FormLetterWriter/ImplementOOP/displaySalutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Encrypt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="9" column="19" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="57" />
->>>>>>> origin/Ex1_encrypt
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
+
       <file pinned="false" current-in-tab="true">
-<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/Ex4_TestBloodData/TestBloodData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="13" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="35" />
-=======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Decrypt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="7" column="16" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="57" />
->>>>>>> origin/Ex1_encrypt
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
+
         <entry file="file://$PROJECT_DIR$/src/Ex4_TestBloodData/Patient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="439">
               <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="18" />
-=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
               <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="37" />
->>>>>>> origin/Billing
-=======
+
         <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/StaticEncrypt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
@@ -100,31 +87,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
               <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="31" />
->>>>>>> origin/Ex1_encrypt
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
         <entry file="file://$PROJECT_DIR$/src/Ex4_TestBloodData/TestPatient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
               <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-=======
         <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/computeBill.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="41" />
->>>>>>> origin/Billing
-=======
+
         <entry file="file://$PROJECT_DIR$/src/Ex2_FormLetterWriter/Ex2_FormLetterWriter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
               <caret line="16" column="23" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="21" selection-end-column="38" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
         <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Decryption.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
@@ -152,7 +134,6 @@
                 <element signature="e#357#358#0" expanded="true" />
                 <element signature="e#395#396#0" expanded="true" />
               </folding>
->>>>>>> origin/Ex1_encrypt
             </state>
           </provider>
         </entry>
@@ -172,31 +153,26 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
         <option value="$PROJECT_DIR$/src/Ex3_Billing/Billing.java" />
         <option value="$PROJECT_DIR$/src/Ex3_Billing/BillingWithInput.java" />
         <option value="$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/computeBill.java" />
         <option value="$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java" />
-<<<<<<< HEAD
+
         <option value="$PROJECT_DIR$/src/Ex4_TestBloodData/BloodData.java" />
         <option value="$PROJECT_DIR$/src/Ex4_TestBloodData/TestBloodData.java" />
         <option value="$PROJECT_DIR$/src/Ex4_TestBloodData/Patient.java" />
         <option value="$PROJECT_DIR$/src/Ex4_TestBloodData/TestPatient.java" />
-=======
->>>>>>> origin/Billing
-=======
+
         <option value="$PROJECT_DIR$/src/Ex2_FormLetterWriter/Ex2_FormLetterWriter.java" />
         <option value="$PROJECT_DIR$/src/Ex2_FormLetterWriter/ImplementOOP/displaySalutation.java" />
         <option value="$PROJECT_DIR$/src/Ex2_FormLetterWriter/ImplementOOP/FormLetterWriter.java" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
         <option value="$PROJECT_DIR$/src/Ex1_encrypt/Encryption.java" />
         <option value="$PROJECT_DIR$/src/Ex1_encrypt/Encrypt.java" />
         <option value="$PROJECT_DIR$/src/Ex1_encrypt/Decryption.java" />
         <option value="$PROJECT_DIR$/src/Ex1_encrypt/Decrypt.java" />
         <option value="$PROJECT_DIR$/src/Ex1_encrypt/StaticEncryption.java" />
->>>>>>> origin/Ex1_encrypt
       </list>
     </option>
   </component>
@@ -243,49 +219,33 @@
             <path>
               <item name="Mohammad_Farahani_HW4_Maktab25" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mohammad_Farahani_HW4_Maktab25" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Mohammad_Farahani_HW4_Maktab25" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mohammad_Farahani_HW4_Maktab25" type="462c0819:PsiDirectoryNode" />
->>>>>>> origin/Ex2_FormLetterWriter
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Mohammad_Farahani_HW4_Maktab25" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mohammad_Farahani_HW4_Maktab25" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-<<<<<<< HEAD
               <item name="Ex4_TestBloodData" type="462c0819:PsiDirectoryNode" />
-=======
               <item name="Ex3_Billing" type="462c0819:PsiDirectoryNode" />
-=======
               <item name="Ex2_FormLetterWriter" type="462c0819:PsiDirectoryNode" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
               <item name="src" type="462c0819:PsiDirectoryNode" />
->>>>>>> origin/Ex1_encrypt
             </path>
             <path>
               <item name="Mohammad_Farahani_HW4_Maktab25" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mohammad_Farahani_HW4_Maktab25" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
               <item name="Ex3_Billing" type="462c0819:PsiDirectoryNode" />
               <item name="implementsOOP" type="462c0819:PsiDirectoryNode" />
->>>>>>> origin/Billing
-=======
               <item name="Ex2_FormLetterWriter" type="462c0819:PsiDirectoryNode" />
               <item name="ImplementOOP" type="462c0819:PsiDirectoryNode" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
               <item name="Ex1_encrypt" type="462c0819:PsiDirectoryNode" />
->>>>>>> origin/Ex1_encrypt
             </path>
           </expand>
           <select />
@@ -314,28 +274,24 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
+
   <component name="RunManager" selected="Application.TestPatient">
-=======
   <component name="RunManager" selected="Application.BillingWithInput">
->>>>>>> origin/Billing
     <configuration name="Billing (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3_Billing.implementsOOP.Billing" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex3_Billing.implementsOOP.*" />
-=======
-  <component name="RunManager" selected="Application.Ex2_FormLetterWriter">
+ <component name="RunManager" selected="Application.Ex2_FormLetterWriter">
     <configuration name="Ex2_FormLetterWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex2_FormLetterWriter.Ex2_FormLetterWriter" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex2_FormLetterWriter.*" />
->>>>>>> origin/Ex2_FormLetterWriter
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,30 +299,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
+
     <configuration name="Billing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3_Billing.Billing" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex3_Billing.*" />
-=======
     <configuration name="FormLetterWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex2_FormLetterWriter.ImplementOOP.FormLetterWriter" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex2_FormLetterWriter.ImplementOOP.*" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
-  <component name="RunManager" selected="Application.StaticEncrypt">
+ <component name="RunManager" selected="Application.StaticEncrypt">
     <configuration name="Decrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1_encrypt.Decrypt" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex1_encrypt.*" />
->>>>>>> origin/Ex1_encrypt
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,22 +326,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <configuration name="BillingWithInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3_Billing.BillingWithInput" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex3_Billing.*" />
-=======
     <configuration name="Encrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1_encrypt.Encrypt" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex1_encrypt.*" />
->>>>>>> origin/Ex1_encrypt
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,22 +345,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <configuration name="TestBloodData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4_TestBloodData.TestBloodData" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex4_TestBloodData.*" />
-=======
     <configuration name="StaticEncrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1_encrypt.StaticEncrypt" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ex1_encrypt.*" />
->>>>>>> origin/Ex1_encrypt
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,7 +364,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
     <configuration name="TestPatient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4_TestBloodData.TestPatient" />
       <module name="Mohammad_Farahani_HW4_Maktab25" />
@@ -438,26 +381,20 @@
       <list>
         <item itemvalue="Application.TestPatient" />
         <item itemvalue="Application.TestBloodData" />
-=======
     <recent_temporary>
       <list>
->>>>>>> origin/Billing
         <item itemvalue="Application.BillingWithInput" />
         <item itemvalue="Application.Billing (1)" />
         <item itemvalue="Application.Billing" />
-=======
     <recent_temporary>
       <list>
         <item itemvalue="Application.Ex2_FormLetterWriter" />
         <item itemvalue="Application.FormLetterWriter" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
     <recent_temporary>
       <list>
         <item itemvalue="Application.StaticEncrypt" />
         <item itemvalue="Application.Decrypt" />
         <item itemvalue="Application.Encrypt" />
->>>>>>> origin/Ex1_encrypt
       </list>
     </recent_temporary>
   </component>
@@ -479,50 +416,35 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
+
     <option name="totallyTimeSpent" value="2621000" />
-=======
     <option name="totallyTimeSpent" value="2090000" />
->>>>>>> origin/Billing
-=======
     <option name="totallyTimeSpent" value="1489000" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
     <option name="totallyTimeSpent" value="2082000" />
->>>>>>> origin/Ex1_encrypt
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1170" extended-state="0" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
+
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
->>>>>>> origin/Billing
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24222222" />
->>>>>>> origin/Ex2_FormLetterWriter
+     <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+  <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24222222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32851636" />
-=======
       <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
->>>>>>> origin/Billing
-=======
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
->>>>>>> origin/Ex2_FormLetterWriter
-=======
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -536,7 +458,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
->>>>>>> origin/Ex1_encrypt
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -558,14 +479,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/Billing.java" />
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/BillingWithInput.java" />
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/computeBill.java" />
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/implementsOOP/Billing.java" />
-=======
     <entry file="file://$PROJECT_DIR$/src/Ex3_Billing/Billing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -594,8 +511,6 @@
         </state>
       </provider>
     </entry>
->>>>>>> origin/Billing
-=======
     <entry file="file://$PROJECT_DIR$/src/Ex2_FormLetterWriter/ImplementOOP/FormLetterWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -617,8 +532,6 @@
         </state>
       </provider>
     </entry>
->>>>>>> origin/Ex2_FormLetterWriter
-=======
     <entry file="file://$PROJECT_DIR$/src/Ex1_encrypt/Encryption.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -675,7 +588,6 @@
         </state>
       </provider>
     </entry>
->>>>>>> origin/Ex1_encrypt
   </component>
   <component name="masterDetails">
     <states>

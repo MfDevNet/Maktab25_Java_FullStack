@@ -20,7 +20,7 @@ public class TestPatient {
         //declare array for save Patient info
         Patient[] patient = new Patient[3];
         // loop for get info from user and call need constructor
-
+        System.out.println("********************************");
         for (int i = 0; i < patient.length; i++) {
             System.out.println("---------------");
             System.out.println("Enter BloodData");
